@@ -19,7 +19,7 @@ function setup(){
 
     bin = createSprite(964,520,20,20);
     bin.addImage(binImg);
-    bin.scale = 0.45;
+    bin.scale = 0.52;
 
     binPart1 = new Dustbin(902,505,10,120);
     binPart2 = new Dustbin(962,565,130,10);
